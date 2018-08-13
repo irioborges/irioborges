@@ -126,7 +126,7 @@ The final element.
 
 # Seja bem vindo 
 
-Pretendo postar sobre:
+Pretendo postar tudo sobre o que eu tiver feito nos seguintes assuntos:
 
  - Yii Framework;
    - RBAC;
@@ -147,3 +147,4 @@ Pretendo postar sobre:
  - Códigos postados no GitHub;
  - Boas práticas;
  - MS Visual Studio Code;
+ - Realidade virtual(Com ou sem Software Livre);
