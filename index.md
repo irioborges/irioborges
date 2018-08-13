@@ -125,3 +125,15 @@ The final element.
 -->
 
 # Seja bem vindo 
+
+Pretendo postar sobre:
+
+ - RBAC Yii Framework
+ - Firebase;
+ - Github Pages;
+ - Git;
+ - Instalação LAMPP Manjaro Linux;
+ - Hadoop;
+ - PWA com Wordpress;
+ - Wordpress;
+ 
