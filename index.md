@@ -128,17 +128,22 @@ The final element.
 
 Pretendo postar sobre:
 
- - RBAC Yii Framework
+ - Yii Framework;
+   - RBAC;
  - Firebase;
  - Github Pages;
  - Git;
- - Instalação LAMPP Manjaro Linux;
+ - Manjaro Linux;
+   - Instalação LAMPP;  
  - Hadoop;
- - PWA com Wordpress;
  - Wordpress;
+   - PWA;
+   - Plugins;
  - Métodos jQuery;
  - BeerJS;
  - ERP;
  - Arduino e boards que eu mexer;
  - Snappy;
  - Códigos postados no GitHub;
+ - Boas práticas;
+ - MS Visual Studio Code;
