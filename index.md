@@ -136,4 +136,9 @@ Pretendo postar sobre:
  - Hadoop;
  - PWA com Wordpress;
  - Wordpress;
- 
+ - Métodos jQuery;
+ - BeerJS;
+ - ERP;
+ - Arduino e boards que eu mexer;
+ - Snappy;
+ - Códigos postados no GitHub;
