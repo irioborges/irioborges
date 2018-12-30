@@ -155,9 +155,12 @@ A minha ideia de falar sobre Git é para documentar os comandos que sei em um lu
   Não vou falar sobre a instalação do git.
   Quando nos deparamos com o git instalado na máquina, temos duas possibilidades de ações que podem ser tomadas:
   1. Clonar um repositório(copiar os arquivos do repositório para nossa máquina);
-  2. Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
-
-  1. Clonando um repositório(exemplo github):
   ```sh
   git clone https://github.com/irioborges/irioborges.git
+  ```
+  2. Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
+
+  2.1. Depois de entrar no diretório onde será criado o novo repositório(que será o origin), digita-se o comando abaixo:
+  ```sh
+  git init
   ```
