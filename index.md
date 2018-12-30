@@ -148,3 +148,5 @@ Pretendo postar tudo sobre o que eu tiver feito nos seguintes assuntos:
  - Boas práticas;
  - MS Visual Studio Code;
  - Realidade virtual(Com ou sem Software Livre);
+
+ # 2º Post - Git! 
