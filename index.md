@@ -163,7 +163,7 @@ A minha ideia de falar sobre Git é para documentar os comandos que sei em um lu
   git init
   ```
 
-  Independente da ação escolhida, o próximo passo com certeza será a alteração ou criação de arquivos. Em ambos os casos estaremos localmente em um repositório origin, pois o master estará em algum gerenciado de repositório. Após criados/alterados arquivos neste repositório, podemos adicionar estas criações/alterações na head através do comando:
+  3. Independente da ação escolhida, o próximo passo com certeza será a alteração ou criação de arquivos. Em ambos os casos estaremos localmente em um repositório origin, pois o master estará em algum gerenciador de repositório. Após criados/alterados arquivos neste repositório, podemos adicionar estas criações/alterações na head através do comando:
   ```sh
   git add * //para todos os arquivos criados/alterados
   ```
@@ -173,3 +173,9 @@ git add nome_do_arquivo //para adicionar somente nome_do_arquivo na head
 ```
 
 A Head é o local onde ficam os arquivos que irão ser acrescentados oficialmente no repositório(por enquanto no origin).
+
+4. Agora é hora do commit. É o comando utilizado para confirmar as alterações e gravar elas no repositório.
+```sh
+git commit -m "First commit"
+```
+Cabe ressaltar que o parâmetro -m é obrigatório.
