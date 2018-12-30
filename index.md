@@ -158,9 +158,7 @@ A minha ideia de falar sobre Git é para documentar os comandos que sei em um lu
   ```sh
   git clone https://github.com/irioborges/irioborges.git
   ```
-  2. Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
-
-  2.1. Depois de entrar no diretório onde será criado o novo repositório(que será o origin), digita-se o comando abaixo:
+  2. Criar um novo repositório. Ele será o origin. Posteriormente será enviado para o repositório master, é por isso do git ser distribuiído;
   ```sh
   git init
   ```
