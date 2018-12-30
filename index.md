@@ -1,4 +1,4 @@
-<!--
+
 ---
 layout: default
 ---
@@ -122,9 +122,9 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
--->
 
-# Seja bem vindo 
+
+# Seja bem vindo
 
 Pretendo postar tudo sobre o que eu tiver feito nos seguintes assuntos:
 
