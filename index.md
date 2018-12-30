@@ -150,3 +150,9 @@ Pretendo postar tudo sobre o que eu tiver feito nos seguintes assuntos:
  - Realidade virtual(Com ou sem Software Livre);
 
 # 2º Post - Git!
+
+A minha ideia de falar sobre Git é para documentar os comandos que sei em um lugar além da minha memória. Git é um sistema de controle de versões(VCS) que está sendo muito utilizado, acredito que por existirem muitos gerenciadores de repositórios online, tais como: github, bitbucket, gitlab, etc...
+  Não vou falar sobre a instalação do git.
+  Quando nos deparamos com o git instalado na máquina, temos duas possibilidades de ações que podem ser tomadas:
+  - Clonar um repositório(copiar os arquivos do repositório para nossa máquina);
+  - Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
