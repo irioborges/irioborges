@@ -151,8 +151,12 @@ Pretendo postar tudo sobre o que eu tiver feito nos seguintes assuntos:
 
 # 2º Post - Git!
 
-A minha ideia de falar sobre Git é para documentar os comandos que sei em um lugar além da minha memória. Git é um sistema de controle de versões(VCS) que está sendo muito utilizado, acredito que por existirem muitos gerenciadores de repositórios online, tais como: github, bitbucket, gitlab, etc...
+A minha ideia de falar sobre Git é para documentar os comandos que sei em um lugar além da minha memória. Git é um sistema de controle de versões(VCS) que está sendo muito utilizado, acredito que por existirem muitos gerenciadores de repositórios online, tais como: github, bitbucket, gitlab, etc... Pode acontecer de eu escrever "Why Git?" mais profundamente depois.
   Não vou falar sobre a instalação do git.
   Quando nos deparamos com o git instalado na máquina, temos duas possibilidades de ações que podem ser tomadas:
-  - Clonar um repositório(copiar os arquivos do repositório para nossa máquina);
-  - Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
+  1. Clonar um repositório(copiar os arquivos do repositório para nossa máquina);
+  2. Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
+
+  1. Clonando um repositório(exemplo github):
+  ```sh
+  git clone https://github.com/irioborges/irioborges.git
