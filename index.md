@@ -158,6 +158,6 @@ A minha ideia de falar sobre Git é para documentar os comandos que sei em um lu
   2. Criar um novo repositório(posteriormente será enviado para o repositório master, é por isso do git ser distribuiído);
 
   1. Clonando um repositório(exemplo github):
-  ```js
+  ```sh
   git clone https://github.com/irioborges/irioborges.git
   ```
